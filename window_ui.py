@@ -99,9 +99,7 @@ class about_window(object):
         MainWindow.setWindowTitle(_translate("About", "About"))
         self.label_2.setText(_translate("About", "Image Bricker\n"
             "Created by\n"
-            "Kamil Gustab\n"
-            "\n"
-            "2021 - UP - PO2"))
+            "Kamil Gustab\n"))
 
 
 class My_window(QMainWindow):
