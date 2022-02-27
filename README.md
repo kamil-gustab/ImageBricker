@@ -17,4 +17,4 @@ Everything else is intuitive!
 
 👤 **Kamil Gustab**
 
-- Github: [@gustab.kamil](https://gitlab.com/gustab.kamil)
+- Github: [@gustab-kamil](https://github.com/kamil-gustab)
